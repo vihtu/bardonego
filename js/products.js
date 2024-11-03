@@ -296,7 +296,7 @@ const products = [
 
 
     {
-        id: 130,
+        id: 128,
         type: 4,
         name: 'Pepsi Lata 350ml ',
         description: 'Pepsi Lata 350ml',
@@ -310,7 +310,7 @@ const products = [
 
   
     {
-        id: 131,
+        id: 129,
         type: 4,
         name: 'REAL CLASSICO 2LT ',
         description: 'REAL CLASSICO 2LT',
@@ -321,7 +321,7 @@ const products = [
 
 
     {
-        id: 132,
+        id: 130,
         type: 4,
         name: 'GUARANÁ REAL GOLD PET 2LT ',
         description: 'GUARANÁ REAL GOLD PET 2LT',
@@ -332,7 +332,7 @@ const products = [
 
 
     {
-        id: 133,
+        id: 131,
         type: 4,
         name: 'Guaraná Regente Pet 2 Litros ',
         description: 'Guaraná Regente Pet 2 Litros',
@@ -342,7 +342,7 @@ const products = [
     },
 
     {
-        id: 134,
+        id: 132,
         type: 4,
         name: 'Guaraná Regente Pet 2 Litros ',
         description: 'Guaraná Regente Pet 2 Litros',
